@@ -4,7 +4,7 @@
     "type": "library",
     "require": {
         "php": "^5.4|^7.0|^8.0",
-        "symfony/cache": "^5.1"
+        "symfony/cache": "5.1"
     },
     "license": "MIT",
     "autoload": {
